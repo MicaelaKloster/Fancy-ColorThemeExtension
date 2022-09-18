@@ -1,0 +1,32 @@
+{
+  "name": "fancy",
+  "displayName": "Fancy",
+  "description": "colorful dark theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.71.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Fancy Color Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/Fancy Color Theme-color-theme.json"
+      }
+    ]
+  },
+  "icon": "icons/Fancy.png",
+  "author": {
+    "name": "Micaela Kloster",
+    "email": "micaela.klosterquintana@gmail.com",
+    "url": "https://www.linkedin.com/in/micaela-kloster-b44779226"
+  },
+  "repository": {
+    "url": "https://github.com/MicaelaKloster/Fancy-ColorThemeExtension.git",
+    "type":"git"
+  },
+  "publisher": "micaela-kloster"
+}
