@@ -1,10 +1,10 @@
 {
 	"name": "Fancy Color Theme",
 	"colors": {
-		"editor.background": "#232323ff",
+		"editor.background": "#0a0a0a",
 		"editor.foreground": "#eeffff",
 		"activityBarBadge.background": "#c328ec",
-		"sideBarTitle.foreground": "#bbbbbb"
+		"sideBarTitle.foreground": "#0f0f0f"
 	},
 	"tokenColors": [
 		{
